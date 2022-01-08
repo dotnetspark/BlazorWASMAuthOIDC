@@ -1,2 +1,2 @@
 # BlazorWASMAuthOIDC
-POC Blazor WASM Authentication with OIDC and Google
+POC Blazor WASM Gpoogle Authentication with Open ID Connect
